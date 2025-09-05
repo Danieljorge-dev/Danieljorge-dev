@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a3d62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1E90FF"/>
 
 <br>
 
@@ -12,13 +12,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a3d62&width=900&size=22&center=true&lines=Sou+do+Brasil;Estudando+Java+sozinho+nesta+imensidão;Uso+IntelliJ+IDEA,+VS+Code,+Git+e+GitHub;Seja+bem-vindo+ao+meu+universo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Sou%20do%20Brasil;Estudando%20Java%20sozinho%20nesta%20imensidade;Uso%20IntelliJ%20IDEA,%20VS%20Code,%20Git%20e%20GitHub;Seja%20bem-vindo%20ao%20meu%20universo!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/daniel_dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/daniel_dev-1E90FF?style=for-the-badge" />
 </div>
       
 <br>
@@ -63,8 +63,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-0a3d62?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a3d62?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-linkedin/)
+  [![Gmail](https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-linkedin/)
   
 </div>
 
@@ -84,9 +84,9 @@
 ---
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanieljorge-dev&s=30&c=0a3d62&bg=00000000&no=2&ff=digi&tb=Visitas:+&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanieljorge-dev&s=30&c=1E90FF&bg=00000000&no=2&ff=digi&tb=Visitas:+&ta=" /></p> 
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
