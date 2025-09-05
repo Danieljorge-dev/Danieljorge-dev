@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Sou%20do%20Brasil;Estudando%20Java%20sozinho%20nesta%20imensidade;Uso%20IntelliJ%20IDEA,%20VS%20Code,%20Git%20e%20GitHub;Seja%20bem-vindo%20ao%20meu%20universo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Sou%20do%20Brasil;Amo%20Linux;Estudando%20Java%20e%20pretendo%20ser%20um%20programador%20web%20back-end;Uso%20IntelliJ%20IDEA,%20VS%20Code,%20Git%20e%20GitHub;Seja%20bem-vindo%20ao%20meu%20universo!&repeat=true" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -41,6 +41,10 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 ---
