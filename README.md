@@ -7,12 +7,12 @@
   <b>`プログラマ`</b>
   <samp>
       <br>
-      Olá! Eu sou <b>Daniel Jorge</b> 👋
+      Olá! Eu sou <b>Daniel Jorge</b> 👋 | Hello! I'm <b>Daniel Jorge</b> 👋
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Seja%20bem-vindo%20ao%20meu%20GitHub!!;>:%20Linux!!;Estudando%20Java%20e%20pretendo%20ser%20um%20programador%20web%20back-end;Uso%20IntelliJ%20IDEA,%20VS%20Code,%20Git%20e%20GitHub;Sou%20do%20Brasil!&repeat=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Seja%20bem-vindo%20ao%20meu%20GitHub!!;Welcome%20to%20my%20GitHub!!;>:%20Linux!!;Estudando%20Java,%20C%20e%20C%23;Learning%20Java,%20C%20and%20C%23;Pretendo%20ser%20um%20programador%20back-end;Aiming%20to%20become%20a%20back-end%20developer;Uso%20IntelliJ,%20VS%20Code,%20Git%20e%20GitHub;I%20use%20IntelliJ,%20VS%20Code,%20Git%20and%20GitHub;Sou%20do%20Brasil!;I'm%20from%20Brazil!&repeat=true" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -34,9 +34,11 @@
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas | Technologies & Tools
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -49,7 +51,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>Mais sobre mim</b>
+        <b>Mais sobre mim | More about me</b>
       </samp>
   </summary>
   
@@ -58,7 +60,7 @@
 <div align="center">
   <samp>
     <b>
-      Contato:
+      Contato | Contact:
     </b>
   </samp>
   <br>
@@ -72,9 +74,11 @@
 <div align="center">
   <p align="center">
       <samp>
-        ⊹ Sempre evoluindo como programador  
-        ⊹ Aprendendo algo novo todos os dias  
-        ⊹ Preparando projetos futuros 🚀  
+        `01000100 01100001 01101110 01101001 01100101 01101100`  
+        <br>
+        ⊹ Sempre evoluindo como programador | Always evolving as a programmer  
+        ⊹ Aprendendo algo novo todos os dias | Learning something new every day  
+        ⊹ Preparando projetos futuros 🚀 | Preparing future projects 🚀  
       </samp>
   </p>
 </div>
@@ -85,7 +89,7 @@
 ---
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanieljorge-dev&s=30&c=1E90FF&bg=00000000&no=2&ff=digi&tb=Visitas:+&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanieljorge-dev&s=30&c=1E90FF&bg=00000000&no=2&ff=digi&tb=Visitas:+&ta=Visits:+ " /></p> 
 </div>
 
 <br>
