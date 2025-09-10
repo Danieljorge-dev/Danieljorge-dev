@@ -3,8 +3,12 @@
 <br>
 
 <div align="center">
+
+  <!-- Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Danieljorge-dev&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
+
+  <br>Hello Wolrd!<br>
   
-  <b>`プログラマ`</b>
   <samp>
       <br>
       Olá! Eu sou <b>Daniel Jorge</b> 👋 | Hello! I'm <b>Daniel Jorge</b> 👋
