@@ -26,11 +26,13 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&cache_seconds=3600&timestamp=1757535371"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=1757535371"/>
-  <br>
-  <br>
-  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=tokyonight&cache_seconds=3600&timestamp=1757535371"/>
+    <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-dark-mode-only"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-dark-mode-only"/>
+  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=tokyonight&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-dark-mode-only"/>
+
+    <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=graywhite&font=Iosevka&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-light-mode-only"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=graywhite&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-light-mode-only"/>
+  <img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=default&cache_seconds=3600&timestamp=__TIMESTAMP__#gh-light-mode-only"/>
 </div>
 
 ---
