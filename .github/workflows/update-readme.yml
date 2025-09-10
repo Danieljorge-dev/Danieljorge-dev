@@ -1,0 +1,30 @@
+name: Update README Stats on Push
+
+on:
+  push:
+    branches:
+      - main  # Ou a branch principal do seu repositório (ex: master)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Update README with new timestamp
+        run: |
+          # Gera um timestamp (número de segundos desde 1970), que é sempre único
+          TIMESTAMP=$(date +%s)
+          
+          # Usa o comando 'sed' para substituir o placeholder __TIMESTAMP__ pelo novo valor
+          sed -i "s/__TIMESTAMP__/${TIMESTAMP}/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          # Apenas faz o commit se houver alguma mudança no arquivo
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README stats"
+          git push
