@@ -107,7 +107,7 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 - [Documentação Java](https://docs.oracle.com/javase/tutorial/)  
 - [Documentação C](https://devdocs.io/c/)  
 - [Documentação C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)  
-- [Curso em Vídeo (YouTube)](https://www.youtube.com/@CursoemVideo) — Dica para quem está começando!  
+- [Curso em Vídeo (YouTube)](https://www.youtube.com/c/CursoemV%C3%ADdeo) — Dica para quem está começando!  
 
 ---
 
