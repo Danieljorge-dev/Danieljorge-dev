@@ -3,11 +3,16 @@ name: Update README Stats on Push
 on:
   push:
     branches:
-      - main  # Ou a branch principal do seu repositório (ex: master)
+      - main # Ou a branch principal do seu repositório (ex: master)
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    
+    # ADICIONE ESTAS DUAS LINHAS AQUI
+    permissions:
+      contents: write
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
