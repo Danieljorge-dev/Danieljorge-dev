@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  <h1>Hello Wolrd!</h1>
+  <h1>Hello World!</h1>
   
   <samp>
       <br>
@@ -26,14 +26,12 @@
 <br>
       
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&cache_seconds=3600&timestamp=1757540438#gh-dark-mode-only" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=graywhite&font=Iosevka&cache_seconds=3600&timestamp=1757540438#gh-light-mode-only" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=1757540438#gh-dark-mode-only" height="180" alt="Top Language"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=graywhite&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=1757540438#gh-light-mode-only" height="180" alt="Top Language"/>
+  <!-- Agora só UM tema universal, Dracula, para stats e linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/?username=Danieljorge-dev&show_icons=true&count_private=true&rank_icon=github&theme=dracula&font=Iosevka&cache_seconds=3600" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=3600" height="180" alt="Top Language"/>
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=tokyonight&cache_seconds=3600&timestamp=1757540438#gh-dark-mode-only" alt="Resumo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=default&cache_seconds=3600&timestamp=1757540438#gh-light-mode-only" alt="Resumo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=dracula&cache_seconds=3600" alt="Resumo"/>
 </p>
 ---
 
