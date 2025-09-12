@@ -1,17 +1,23 @@
-name: Update README Stats on Push
+name: Update README Stats (Hourly and on Push)
 
 on:
+  # Gatilho 1: Roda de hora em hora (agendamento)
+  schedule:
+    - cron: '0 * * * *'
+  
+  # Gatilho 2: Roda a cada push na branch 'main'
   push:
     branches:
       - main
+  
+  # Gatilho 3: Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     
-    # ESTA PARTE É A MAIS IMPORTANTE
-    # "permissions:" deve estar alinhado com "runs-on:"
-    # "contents:" deve ter dois espaços de recuo
+    # Permissão para o robô poder salvar as alterações no seu repositório
     permissions:
       contents: write
 
@@ -19,9 +25,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      # O resto do arquivo...
       - name: Update README with new timestamp
         run: |
+          # Gera um carimbo de data/hora (sempre um número novo) para quebrar o cache
           TIMESTAMP=$(date +%s)
           sed -i "s/__TIMESTAMP__/${TIMESTAMP}/g" README.md
 
@@ -30,5 +36,6 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           git add README.md
+          # Faz o commit apenas se o arquivo tiver sido alterado de fato
           git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README stats"
           git push
