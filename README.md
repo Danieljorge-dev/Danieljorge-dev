@@ -37,9 +37,9 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danieljorge-dev&show_icons=true&count_private=true&theme=dracula&font=Iosevka&cache_seconds=3600&timestamp=__TIMESTAMP__" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=__TIMESTAMP__" height="180" alt="Top Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=dracula&cache_seconds=3600&timestamp=__TIMESTAMP__" alt="Resumo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danieljorge-dev&show_icons=true&count_private=true&theme=dracula&font=Iosevka&cache_seconds=3600&timestamp=1757700417" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=1757700417" height="180" alt="Top Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=dracula&cache_seconds=3600&timestamp=1757700417" alt="Resumo"/>
 </p>
 
 ---
