@@ -28,7 +28,7 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 
 ## 🚀 Projetos em Destaque
 
-- [Aprendendo C-](https://github.com/Danieljorge-dev/Aprendendo-C-) — Estudos e exercícios em linguagem C#
+- [Aprendendo C#](https://github.com/Danieljorge-dev/Aprendendo-C-) — Estudos e exercícios em linguagem C#
 - [Java](https://github.com/Danieljorge-dev/Java) — Primeiros passos e práticas em Java
 - [AprendendoJavaIniciante](https://github.com/Danieljorge-dev/AprendendoJavaIniciante) — Repositório para praticar Java
 - [HelloWorldJava](https://github.com/Danieljorge-dev/HelloWorldJava) — Meu primeiro "Hello World" em Java
