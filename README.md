@@ -11,9 +11,8 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 </samp>
 <br>
 
-<!-- Frases animadas -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&size=22&center=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Linux+user;Aprendendo+Java+e+C%23;Uso+IntelliJ+IDEA+e+VSCode;Entendo+um+pouco+de+Git;Sou+do+Brasil;Welcome+to+my+GitHub!;Linux+user;Learning+Java+and+C%23;Using+IntelliJ+IDEA+and+VSCode;I+understand+a+bit+of+Git;I'm+from+Brazil" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&size=22&center=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Linux+user;Aprendendo+Java+e+C%23;Uso+IntelliJ+IDEA+e+VSCode;Entendo+um+pouco+de+Git;Sou+do+Brasil;Welcome+to+my+GitHub!;Linux+user;Learning+Java+and+C%23;Using+IntelliJ+IDEA+and+VSCode;I+understand+a+bit+of+Git;I'm+from+Brazil" alt="Typing SVG"/>
 </p>
 
 <br>
@@ -38,9 +37,9 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danieljorge-dev&show_icons=true&count_private=true&theme=dracula&font=Iosevka&cache_seconds=3600" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=3600" height="180" alt="Top Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=dracula" alt="Resumo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danieljorge-dev&show_icons=true&count_private=true&theme=dracula&font=Iosevka&cache_seconds=3600&timestamp=__TIMESTAMP__" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljorge-dev&layout=compact&font=Iosevka&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=3600&timestamp=__TIMESTAMP__" height="180" alt="Top Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danieljorge-dev&theme=dracula&cache_seconds=3600&timestamp=__TIMESTAMP__" alt="Resumo"/>
 </p>
 
 ---
@@ -62,20 +61,19 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 ## ⚙️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" title="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" title="Linux Mint"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" title="Linux Mint"/>
 </div>
 <p align="center"><samp>💻 Usuário Linux Mint</samp></p>
 
-<!-- Contador de visitas fixo -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danieljorge-dev&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Danieljorge-dev&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -91,7 +89,7 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 
 ## 🎲 Curiosidade
 
-> Meu primeiro código foi um “Hello World” e alguns if/else!  
+> Meu primeiro código foi um “Hello World” e alguns if/else!  
 > Amo café ☕, Linux Mint 🐧, música Groove/Jazz/Blues e Minecraft 🎮.
 
 ---
