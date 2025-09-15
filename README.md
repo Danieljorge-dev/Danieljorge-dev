@@ -17,7 +17,7 @@ Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danieljorg23143835@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-linkedin/)
 <img src="https://img.shields.io/badge/daniel_dev-1E90FF?style=for-the-badge" />
 
