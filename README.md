@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hello World! 👋
+# Hello World!
 
 <samp>
 Olá! Eu sou <b>Daniel Jorge</b> | Hello! I'm <b>Daniel Jorge</b>
